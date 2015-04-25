@@ -11,4 +11,4 @@
 
 # When it comes to interactivity and gaming, the ecosystem is clearly moving towards mobile. 
 ## Consider wildly popular zeitgeist games such as Angy Birds or Candy Crush - clearly, these are best suited to a moile app format.
-### A friend of mine is working on a moble game kickstarter now, check it out![Waynesaw!](https://www.kickstarter.com/projects/1228426126/waynesaw)
+### A friend of mine is working on a moble game kickstarter now, check it out![Waynesaw](https://www.kickstarter.com/projects/1228426126/waynesaw)
